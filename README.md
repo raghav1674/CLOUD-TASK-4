@@ -1,6 +1,10 @@
 # CLOUD-TASK-4
 
 
+I have used my own created ami for WORDPRESS AND MYSQL .
+
+[Setup  Procedure](https://github.com/raghav1674/INSTALL-CONFIGURE-WP-MYSQL-SERVER/blob/master/README.md)
+
 ## Perform task-3 with an additional feature to be added that is NAT Gateway to provide the internet access to instances running in the private subnet.
 
 ## Performing the following steps:
