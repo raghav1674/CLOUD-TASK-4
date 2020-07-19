@@ -73,7 +73,7 @@ A bastion host is a special-purpose computer on a network specifically designed 
  <img src="https://github.com/raghav1674/CLOUD-TASK-4/blob/master/snaps/bositon_transfered_key.PNG">
  
  
- <img src="https://github.com/raghav1674/CLOUD-TASK-4/blob/master/snaps/bositon_success.PNG"  width="200"  height="270">
+ <img src="https://github.com/raghav1674/CLOUD-TASK-4/blob/master/snaps/bositon_success.PNG"  width="800"  height="270">
 
         
 
