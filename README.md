@@ -7,18 +7,19 @@ I have used my own created ami for WORDPRESS AND MYSQL .
 
 ## Perform task-3 with an additional feature to be added that is NAT Gateway to provide the internet access to instances running in the private subnet.
 
-[main.tf]
+[main.tf](https://github.com/raghav1674/CLOUD-TASK-4/blob/master/main.tf)
 
-[variable.tf]
+[variable.tf](https://github.com/raghav1674/CLOUD-TASK-4/blob/master/variable.tf)
+
 
 >SUBMODULES:
 
 
- [vpc.tf]
+ [vpc.tf](https://github.com/raghav1674/CLOUD-TASK-4/blob/master/aws/vpc.tf)
 
- [subnets.tf]
+ [subnets.tf](https://github.com/raghav1674/CLOUD-TASK-4/blob/master/aws/subnets.tf)
 
- [ec2.tf]
+ [ec2.tf](https://github.com/raghav1674/CLOUD-TASK-4/blob/master/aws/ec2.tf)
 
 ## Performing the following steps:
 
