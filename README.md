@@ -50,6 +50,7 @@ I have used my own created ami for WORDPRESS AND MYSQL .
 <img src="https://github.com/raghav1674/CLOUD-TASK-4/blob/master/snaps/route_table_aws.PNG">
 
 ### 5.  Create a NAT gateway for connect our VPC/Network to the internet world  and attach this gateway to our VPC in the public network
+         NOTE: NAT GATEWAY SHOULD BE CREATED IN THE PUBLIC SUBNET.
 <img src="https://github.com/raghav1674/CLOUD-TASK-4/blob/master/snaps/nat_gateway.PNG">
 
 ### 6.  Update the routing table of the private subnet, so that to access the internet it uses the nat gateway created in the public subnet
