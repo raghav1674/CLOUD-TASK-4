@@ -95,7 +95,9 @@ A bastion host is a special-purpose computer on a network specifically designed 
 
 <img src="https://github.com/raghav1674/CLOUD-TASK-4/blob/master/snaps/13_wp-sql.PNG.PNG" >
 
+As we have enabled NAT Gateway so now SNATting can be done for mysql instance but DNAT not allowed.
 
+<img src="https://github.com/raghav1674/CLOUD-TASK-4/blob/master/snaps/mysql_can_ping_to_google.PNG" >
 
 #### WE CAN DESTROY THE WHOLE INFRASTRUCTURE USING ONE SINGLE COMMAND:
 
