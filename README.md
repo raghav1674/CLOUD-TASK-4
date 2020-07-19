@@ -69,6 +69,7 @@ A bastion host is a special-purpose computer on a network specifically designed 
 <img src="https://github.com/raghav1674/CLOUD-TASK-4/blob/master/snaps/bositon_login.PNG">
         
         
+    For Login we need to have key in the bastion host instance.
         
  <img src="https://github.com/raghav1674/CLOUD-TASK-4/blob/master/snaps/bositon_transfered_key.PNG">
  
@@ -76,6 +77,28 @@ A bastion host is a special-purpose computer on a network specifically designed 
  <img src="https://github.com/raghav1674/CLOUD-TASK-4/blob/master/snaps/bositon_success.PNG"    height="600">
 
         
+### CREATING THE DATABASE FOR WORDPRESS AND THEN INSTALLATION OF WORDPRESS:
+
+<img src="https://github.com/raghav1674/CLOUD-TASK-4/blob/master/snaps/database-created_user_forwp.PNG" >
+
+<img src="https://github.com/raghav1674/CLOUD-TASK-4/blob/master/snaps/ALL_wp_sql_conn.PNG" >
+
+
+<img src="https://github.com/raghav1674/CLOUD-TASK-4/blob/master/snaps/wordpress_connect.PNG" >
+
+<img src="https://github.com/raghav1674/CLOUD-TASK-4/blob/master/snaps/wp_setup_done.PNG" >
+
+<img src="https://github.com/raghav1674/CLOUD-TASK-4/blob/master/snaps/wordpress_set.PNG" >
+
+
+
+
+<img src="https://github.com/raghav1674/CLOUD-TASK-4/blob/master/snaps/wordpress_set.PNG" >
+
+
+
+
+
 
 Note: Wordpress instance has to be part of public subnet so that our client can connect our site. 
 mysql instance has to be part of private  subnet so that outside world can't connect to it.
