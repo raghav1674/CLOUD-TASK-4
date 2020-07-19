@@ -93,11 +93,21 @@ A bastion host is a special-purpose computer on a network specifically designed 
 
 
 
-<img src="https://github.com/raghav1674/CLOUD-TASK-4/blob/master/snaps/wordpress_set.PNG" >
+<img src="https://github.com/raghav1674/CLOUD-TASK-4/blob/master/snaps/13_wp-sql.PNG.PNG" >
 
 
 
+#### WE CAN DESTROY THE WHOLE INFRASTRUCTURE USING ONE SINGLE COMMAND:
 
+>terraform destroy
+
+<img src="https://github.com/raghav1674/CLOUD-TASK-4/blob/master/snaps/type_yes_for_destory.PNG" >
+
+
+<img src="https://github.com/raghav1674/CLOUD-TASK-4/blob/master/snaps/all_destroyed.PNG" >
+
+
+<img src="https://github.com/raghav1674/CLOUD-TASK-4/blob/master/snaps/all_task_4_ec2_done_3.PNG" >
 
 
 Note: Wordpress instance has to be part of public subnet so that our client can connect our site. 
